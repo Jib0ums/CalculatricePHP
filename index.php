@@ -30,7 +30,7 @@ fieldset{
 <form action="calcul.php" method="post">
 <fieldset>
   
-  <legend>Ma calculatrice perso</legend>
+  <legend>Ma calculatrice perso de ouf</legend>
   
   <br>
   	
