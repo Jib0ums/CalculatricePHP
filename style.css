@@ -1,0 +1,11 @@
+.alert{
+background-color: red; 
+font-weight: bold;
+
+}
+
+.success{
+background-color: green;
+font-weight: normal;
+
+}
